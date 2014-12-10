@@ -1,0 +1,23 @@
+all: 
+	-rm -Rf Staging
+	-mkdir Staging
+	-mkdir Staging/Client
+	-mkdir Staging/Server
+	-mkdir Staging/Monitor
+	-@echo 'Building components...'
+	-@echo ' '
+	-cd DKK/Debug && $(MAKE) clean all
+	-cd DKKClient/Debug && $(MAKE) clean all
+	-cd DKKMatchServer/Debug && $(MAKE) clean all
+	-cd DKKTournamentServer/Debug && $(MAKE) clean all
+	-cd DKKMonitor/Debug && $(MAKE) clean all
+	-@echo ' '
+	-cp -R DKKClient/gfx Staging/Client/.
+	-cp -R DKKClient/Debug/DKKClient Staging/Client/.
+	-cp DKKClient/client.conf Staging/Client/.
+	-@echo ' '
+	-cp DKKMatchServer/Debug/DKKMatchServer Staging/Server/.
+	-cp DKKTournamentServer/Debug/DKKTournamentServer Staging/Server/.
+	-cp DKKTournamentServer/server.conf Staging/Server/.
+	-cp -R DKKTournamentServer/gfx Staging/Server/.
+	-cp DKKMonitor/Debug/DKKMonitor Staging/Server/.
