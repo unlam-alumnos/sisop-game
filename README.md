@@ -12,3 +12,5 @@ NOTA: Recordar modificiar los archivos client.conf y server.conf antes de ejecut
 	  Sobre todo las rutas del binario del Monitor y sus puertos.
 
 *Documentación --->* Documento_Final.pdf
+
+![alt tag](http://s12.postimg.org/3zf8hepot/Donkey_Kong.jpg)
