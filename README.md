@@ -10,3 +10,5 @@ Modo de compilación:
 
 NOTA: Recordar modificiar los archivos client.conf y server.conf antes de ejecutar el juego.
 	  Sobre todo las rutas del binario del Monitor y sus puertos.
+
+*Documentación --->* Documento_Final.pdf
