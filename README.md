@@ -1,4 +1,5 @@
 <h1>UNLAM - Sistemas Operativos - TP 4</h1>
+<h3>2do cuatrimestre - 2014</h3>
 
 <h3>Dependencias</h3>
 - sudo apt-get install libsdl1.2-dev libsdl1.2debian
@@ -14,5 +15,10 @@
 
 <h3>Documentación</h3>
 <a href="https://github.com/cristianmiranda/sisop-game/blob/master/Documento_Final.pdf">Documento_Final.pdf</a>
+
+<h3>Integrantes</h3>
+- Gavidia, Hernan
+- Martín, Gonzalo
+- Miranda, Cristian
 
 ![alt tag](http://s12.postimg.org/3zf8hepot/Donkey_Kong.jpg)
