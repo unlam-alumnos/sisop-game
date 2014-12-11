@@ -1,4 +1,4 @@
-<h1>UNLAM - Sistemas Operativos - TP 4</h1>
+<h1>UNLaM - Sistemas Operativos - TP 4</h1>
 <h3>2do cuatrimestre - 2014</h3>
 
 <h3>Dependencias</h3>
@@ -9,11 +9,11 @@
 - cd sisop-game
 - make
 
-<b>NOTA:</b> Recordar modificiar los archivos client.conf y server.conf antes de ejecutar el juego. Sobre todo las rutas del binario del Monitor y sus puertos.
+<b>NOTA:</b> Recordar modificiar los archivos <b>client.conf</b> y <b>server.conf</b> antes de ejecutar el juego. Sobre todo las rutas del binario del Monitor y sus puertos.
 <br/>
-<b>"Todos los ejecutables se encuentran en la carpeta Staging, y se deben ejecutar desde una terminal"</b>
+<i>"Todos los ejecutables se encuentran en la carpeta <b>Staging</b>, y se deben ejecutar desde una terminal"</i>
 
-<h3>Documentación</h3>
+<h3>Documentación y Manual de usuario</h3>
 - <a href="https://github.com/cristianmiranda/sisop-game/blob/master/Documento_Final.pdf">Documento_Final.pdf</a>
 - <a href="https://github.com/cristianmiranda/sisop-game/blob/master/Syllabus_de_Sistemas_Operativos_Q2_2014_v1.pdf">Syllabus_Enunciados.pdf</a>
 
