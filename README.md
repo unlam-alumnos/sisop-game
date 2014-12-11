@@ -10,6 +10,7 @@
 - make
 
 <b>NOTA:</b> Recordar modificiar los archivos client.conf y server.conf antes de ejecutar el juego. Sobre todo las rutas del binario del Monitor y sus puertos.
+<br/>
 <b>"Todos los ejecutables se encuentran en la carpeta Staging, y se deben ejecutar desde una terminal"</b>
 
 <h3>Documentación</h3>
